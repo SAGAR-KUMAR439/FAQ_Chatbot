@@ -1,8 +1,8 @@
-# CodeAlpha FAQ Chatbot
+# FAQ Chatbot
 
 ## Overview
 
-This project is an FAQ Chatbot developed as part of the CodeAlpha Artificial Intelligence Internship — Task 2.
+This project is an FAQ Chatbot developed as part of the Artificial Intelligence Internship â€” Task 2.
 
 The chatbot is designed to answer Python-related questions by matching a user's question with the most relevant question from a collection of frequently asked questions (FAQs).
 
@@ -200,7 +200,7 @@ What is machine learning?
 
 ```text
 CodeAlpha_FAQ_Chatbot/
-¦
+Â¦
 +-- faq_chatbot.py
 +-- faqs.py
 +-- README.md
@@ -246,10 +246,10 @@ Possible future improvements include:
 
 ## Internship
 
-This project was developed as part of the CodeAlpha Artificial Intelligence Internship.
+This project was developed as part of the Artificial Intelligence Internship.
 
-**Task:** FAQ Chatbot — Task 2
+**Task:** FAQ Chatbot â€” Task 2
 
 ## Author
 
-Developed by Sagar as part of the CodeAlpha AI Internship.
+Developed by SAGAR.
